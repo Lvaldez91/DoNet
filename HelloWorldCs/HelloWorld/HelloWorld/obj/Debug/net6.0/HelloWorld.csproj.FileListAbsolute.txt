@@ -1,0 +1,15 @@
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.exe
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.deps.json
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.runtimeconfig.json
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.dll
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\bin\Debug\net6.0\HelloWorld.pdb
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.AssemblyReference.cache
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfoInputs.cache
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.AssemblyInfo.cs
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.dll
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\obj\Debug\net6.0\refint\HelloWorld.dll
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.pdb
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\obj\Debug\net6.0\HelloWorld.genruntimeconfig.cache
+D:\ProjectsGit\DoNet\HelloWorldCs\HelloWorld\HelloWorld\obj\Debug\net6.0\ref\HelloWorld.dll
